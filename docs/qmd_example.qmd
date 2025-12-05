@@ -76,9 +76,12 @@ Additionally, note that in @tbl-1 we consider the sample standard deviation of t
 
 ![Horse populations for the province with the largest standard deviation](../results/horse_pops_plot_largest_sd.png){width=70% #fig-2}
 
-$ \newline $
+<!-- Not sure why figure 2 keeps rendering between references without the additon of a line right here -->
 
-In @fig-2 we zoom in and look at the province of `{python} largest_sd`, which had the largest spread of values in terms of standard deviation.
+In @fig-2,
+
+we zoom in and look at the province of `{python} largest_sd`, 
+which had the largest spread of values in terms of standard deviation.
 
 
 
